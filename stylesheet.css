@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+.commonInput{
+    background-color: yellow;
+}
+
+
+#input4{
+    background-color: purple;
+}
+
+label {
+    color: black;
+    font-style: italic;
+    font-size: large;
+}
